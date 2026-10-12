@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.EditorMd" parent="android:Theme.Material.NoActionBar" />
+</resources>
