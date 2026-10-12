@@ -43,7 +43,7 @@ Produtividade
 - (Com "Não", o formulário termina; não há dados criptografados em trânsito a declarar porque o app não transmite nada.)
 
 ## Outras seções de "Conteúdo do app"
-- Política de privacidade: URL pública de `docs/privacy-policy.html`
+- Política de privacidade: https://gustavo-friedrich.github.io/editor-md/privacy-policy.html
 - Anúncios: **Não contém anúncios**
 - Acesso ao app: **Todas as funcionalidades estão disponíveis sem restrições** (sem login)
 - Público-alvo: 13+ ou 18+ (evite marcar faixas infantis para não entrar nas regras do programa Famílias)
